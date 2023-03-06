@@ -12,6 +12,7 @@ export default function page() {
       <Image width='300' height='100' src='https://upload.wikimedia.org/wikipedia/commons/3/3e/Google_2011_logo.png'/>
 
       <HomeSearch/>
+      
    </div>
    </>
   );
